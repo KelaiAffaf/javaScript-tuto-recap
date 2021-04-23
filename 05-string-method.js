@@ -1,9 +1,9 @@
 /*
 === String Built in Methods ===
 */
-let firstName = 'Asabeneh';
-let lastName = 'Yetayeh';
-let location = 'Helsinki';
+let firstName = 'Afaf';
+let lastName = 'KELAI';
+let location = 'Algeria';
 console.log(firstName.length); // to check the length of a string
 console.log(firstName.toUpperCase()); // to capitalize
 console.log(firstName.toLowerCase()); // to change to lower case letters

@@ -1,8 +1,8 @@
 // Declaring different variables of different data types
-let firstName = 'Asabeneh';
-let lastName = 'Yetayeh';
-let location = 'Helsinki';
-let country = 'Finland';
+let firstName = 'Afaf';
+let lastName = 'kelai';
+let location = 'Algiers';
+let country = 'Algeria';
 let city = 'Helsinki';
 let age = 100;
 let isMarried = true;
@@ -12,7 +12,7 @@ const PI = 3.14; // can can be accessed like this too: Math.PI
 console.log(firstName, lastName, location, country, age, gravity, PI);
 
 // Variables can also be declaring in one line separated by comma
-let name = 'Asabeneh',
-  job = 'Teacher',
-  live = 'Finland';
+let name = 'Afaf',
+  job = 'Engineer',
+  live = 'Algeria';
 console.log(name, job, live);

@@ -1,7 +1,7 @@
-let firstName = 'Asabeneh';
-let letlastName = 'Yetayeh';
+let firstName = 'Afaf';
+let letlastName = 'kelai';
 let age = 200; // number data type
-let country = 'Finland';
+let country = 'Algeria';
 let job = 'teacher';
 let lang = 'JavaScript';
 let personInfo = `I am ${fullName}.I am a ${age} years old. I am a ${job} and I love teaching.
